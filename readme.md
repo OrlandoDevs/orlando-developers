@@ -1,28 +1,36 @@
-## Orlando Developers
+![ODevs_Slack](https://raw.githubusercontent.com/Enteleform/orlando-developers/master/src/ODevs_Slack.jpeg)
+
+# Orlando Developers
 
 Orlando Developers Slack is a place for software developers who live or work in Orlando to chat and support each other.
 
-### How do I join?
+&nbsp;
+
+## FAQs
+
+#### How do I join?
 
 The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing tjkrus@gmail.com. If you are already a member, you can use a slash command to invite other users, eg: `/requestinvite name@email.com` and and admin will handle the request!
 
-### Why does this exist?
+#### Why does this exist?
 
 Orlando Developers Slack was created to foster the software development community in Orlando. We encourage sharing your knowledge, asking questions, forming relationships and a general ambition to strengthen the community.
 
-### Am I eligible to join?
+#### Am I eligible to join?
 
 In short, yes! We are really open to having as many people that want to be a part, be a part. There are no hard rules on who is able to join and who is not. The only consideration is that the purpose of the group is to grow local relationships. That means if have attended meet ups in Orlando, work for a company based out of Orlando, work with other developers in Orlando, or have some similar affiliation, join us!
 
-### What are the rules?
+#### What are the rules?
 
 Basically just be nice, treat others how you would like to be treated.
 
-#### Code of Conduct
+&nbsp;
+
+## Code of Conduct
 
 Orlando Developers Slack is a harassment free space. We do not tolerate harassment of any kind.
 
-##### Harassment includes
+#### Harassment includes
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
@@ -41,7 +49,7 @@ Orlando Developers Slack is a harassment free space. We do not tolerate harassme
 * Publication of non-harassing private communication
 * Creating chat channels with offensive motives or intent
 
-##### Reporting
+#### Reporting
 
 If you are being harassed by a member, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing /admin <your message> in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
